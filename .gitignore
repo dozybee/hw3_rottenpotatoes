@@ -5,3 +5,17 @@ TAGS
 db/schema.rb
 log/
 db/*.sqlite3
+
+/tmp
+
+# Ignore other unneeded files.
+doc/
+*.swp
+*~
+.project
+.DS_Store
+.idea
+.secret
+.gitignore
+
+
